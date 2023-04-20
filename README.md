@@ -1,16 +1,6 @@
-# OpenSAFELY Research Template
+# IMD breakdown investigation
 
-This is a template repository for making new OpenSAFELY resarch projects.
-
-# _title goes here_
-
-This is the code and configuration for our paper, _name goes here_
-
-* The paper is [here]()
-* Raw model outputs, including charts, crosstabs, etc, are in `released_outputs/`
-* If you are interested in how we defined our variables, take a look at the [study definition](analysis/study_definition.py); this is written in `python`, but non-programmers should be able to understand what is going on there
-* If you are interested in how we defined our code lists, look in the [codelists folder](./codelists/).
-* Developers and epidemiologists interested in the framework should review [the OpenSAFELY documentation](https://docs.opensafely.org)
+This is the code for an investigation into the distribution of IMD rankings in the TPP and EMIS OpenSAFELY backends.
 
 # About the OpenSAFELY framework
 
